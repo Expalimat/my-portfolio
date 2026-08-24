@@ -3,9 +3,8 @@ export default function About() {
     <section>
       <h1>About Me</h1>
       <p>
-        I'm a Computer Science / IT student with coursework spanning programming,
-        database management, and game design. I like building small, working tools
-        end-to-end rather than just following tutorials.
+        I'm a Computer Science student with coursework focusing mostly on programming. 
+        I like building small, working toolsend-to-end rather than just following tutorials.
       </p>
 
       <h2>Skills</h2>
@@ -19,9 +18,8 @@ export default function About() {
 
       <h2>Education</h2>
       <ul>
-        <li>Information Management (CCS110)</li>
-        <li>Number Theory</li>
-        <li>Application Development and Emerging Technologies (CCS112)</li>
+        <li>Studied And Finished Complete 12 Year Curriculum In Saint Matthew Montessori And Science High School</li>
+        <li>Currently 3rd Year In Computer Science At University of Cabuyao</li>        <li></li>
       </ul>
     </section>
   );
