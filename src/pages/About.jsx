@@ -19,7 +19,7 @@ export default function About() {
       <h2>Education</h2>
       <ul>
         <li>Studied And Finished Complete 12 Year Curriculum In Saint Matthew Montessori And Science High School</li>
-        <li>Currently 3rd Year In Computer Science At University of Cabuyao</li>        <li></li>
+        <li>Currently 3rd Year In Computer Science At University of Cabuyao</li>  
       </ul>
     </section>
   );
