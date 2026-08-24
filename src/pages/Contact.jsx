@@ -10,9 +10,7 @@ export default function Contact() {
 
   return (
     <section>
-      <h1>Contact</h1>
-      <p>Email: your.email@example.com</p>
-      <p>GitHub: github.com/your-username</p>
+      <h1>Please Contact me for any Inquiries</h1>
 
       <form onSubmit={handleSubmit}>
         <input type="text" placeholder="Your name" required />
